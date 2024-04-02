@@ -1,0 +1,932 @@
+{
+    "Different_Quetions": [
+        {
+          "question": "What is the capital of France?",
+          "right_answer": "Paris",
+          "wrong_answer1": "Berlin",
+          "wrong_answer2": "London",
+          "wrong_answer3": "Madrid"
+        },
+        {
+          "question": "Who painted the Mona Lisa?",
+          "right_answer": "Leonardo da Vinci",
+          "wrong_answer1": "Pablo Picasso",
+          "wrong_answer2": "Vincent van Gogh",
+          "wrong_answer3": "Claude Monet"
+        },
+        {
+          "question": "What is the powerhouse of the cell?",
+          "right_answer": "Mitochondrion",
+          "wrong_answer1": "Ribosome",
+          "wrong_answer2": "Nucleus",
+          "wrong_answer3": "Endoplasmic Reticulum"
+        },
+        {
+          "question": "What is the boiling point of water in Celsius?",
+          "right_answer": "100°C",
+          "wrong_answer1": "0°C",
+          "wrong_answer2": "50°C",
+          "wrong_answer3": "-10°C"
+        },
+        {
+          "question": "Who wrote 'To Kill a Mockingbird'?",
+          "right_answer": "Harper Lee",
+          "wrong_answer1": "J.K. Rowling",
+          "wrong_answer2": "Mark Twain",
+          "wrong_answer3": "Charles Dickens"
+        },
+        {
+          "question": "What is the tallest mountain in the world?",
+          "right_answer": "Mount Everest",
+          "wrong_answer1": "K2",
+          "wrong_answer2": "Makalu",
+          "wrong_answer3": "Kangchenjunga"
+        },
+        {
+          "question": "What year did the Titanic sink?",
+          "right_answer": "1912",
+          "wrong_answer1": "1905",
+          "wrong_answer2": "1920",
+          "wrong_answer3": "1931"
+        },
+        {
+          "question": "Who was the first person to step on the moon?",
+          "right_answer": "Neil Armstrong",
+          "wrong_answer1": "Buzz Aldrin",
+          "wrong_answer2": "Yuri Gagarin",
+          "wrong_answer3": "John Glenn"
+        },
+        {
+          "question": "What is the chemical symbol for gold?",
+          "right_answer": "Au",
+          "wrong_answer1": "Ag",
+          "wrong_answer2": "Fe",
+          "wrong_answer3": "Pb"
+        },
+        {
+          "question": "Who discovered penicillin?",
+          "right_answer": "Alexander Fleming",
+          "wrong_answer1": "Marie Curie",
+          "wrong_answer2": "Louis Pasteur",
+          "wrong_answer3": "Robert Koch"
+        },
+        {
+          "question": "What is the capital of Japan?",
+          "right_answer": "Tokyo",
+          "wrong_answer1": "Beijing",
+          "wrong_answer2": "Seoul",
+          "wrong_answer3": "Bangkok"
+        },
+        {
+          "question": "Who wrote 'Romeo and Juliet'?",
+          "right_answer": "William Shakespeare",
+          "wrong_answer1": "Jane Austen",
+          "wrong_answer2": "Charles Dickens",
+          "wrong_answer3": "Leo Tolstoy"
+        },
+        {
+          "question": "What is the largest ocean on Earth?",
+          "right_answer": "Pacific Ocean",
+          "wrong_answer1": "Atlantic Ocean",
+          "wrong_answer2": "Arctic Ocean",
+          "wrong_answer3": "Indian Ocean"
+        },
+        {
+          "question": "What is the formula for the area of a circle?",
+          "right_answer": "πr^2",
+          "wrong_answer1": "πr",
+          "wrong_answer2": "2πr",
+          "wrong_answer3": "2πr^2"
+        },
+        {
+          "question": "What is the atomic number of carbon?",
+          "right_answer": "6",
+          "wrong_answer1": "8",
+          "wrong_answer2": "12",
+          "wrong_answer3": "14"
+        },
+        {
+          "question": "Who was the first President of the United States?",
+          "right_answer": "George Washington",
+          "wrong_answer1": "Thomas Jefferson",
+          "wrong_answer2": "Abraham Lincoln",
+          "wrong_answer3": "John Adams"
+        },
+        {
+          "question": "What is the currency of Germany?",
+          "right_answer": "Euro",
+          "wrong_answer1": "Dollar",
+          "wrong_answer2": "Yen",
+          "wrong_answer3": "Pound"
+        },
+        {
+          "question": "What is the chemical formula for water?",
+          "right_answer": "H2O",
+          "wrong_answer1": "H2O2",
+          "wrong_answer2": "CO2",
+          "wrong_answer3": "NaCl"
+        },
+        {
+          "question": "Who wrote '1984'?",
+          "right_answer": "George Orwell",
+          "wrong_answer1": "Ray Bradbury",
+          "wrong_answer2": "Aldous Huxley",
+          "wrong_answer3": "H.G. Wells"
+        },
+        {
+          "question": "What is the longest river in the world?",
+          "right_answer": "Nile River",
+          "wrong_answer1": "Amazon River",
+          "wrong_answer2": "Mississippi River",
+          "wrong_answer3": "Yangtze River"
+        },
+        {
+          "question": "Who is known as the father of modern physics?",
+          "right_answer": "Albert Einstein",
+          "wrong_answer1": "Isaac Newton",
+          "wrong_answer2": "Galileo Galilei",
+          "wrong_answer3": "Nikola Tesla"
+        },
+        {
+          "question": "What is the capital of Australia?",
+          "right_answer": "Canberra",
+          "wrong_answer1": "Sydney",
+          "wrong_answer2": "Melbourne",
+          "wrong_answer3": "Brisbane"
+        }
+      ],
+    "Countries_Quetions": [
+        {
+          "question": "Which country is known as the Land of the Rising Sun?",
+          "right_answer": "Japan",
+          "wrong_answer1": "China",
+          "wrong_answer2": "Korea",
+          "wrong_answer3": "Thailand"
+        },
+        {
+          "question": "Which country is famous for its kangaroos and koalas?",
+          "right_answer": "Australia",
+          "wrong_answer1": "New Zealand",
+          "wrong_answer2": "South Africa",
+          "wrong_answer3": "Brazil"
+        },
+        {
+          "question": "Which country is home to the Great Pyramid of Giza?",
+          "right_answer": "Egypt",
+          "wrong_answer1": "Greece",
+          "wrong_answer2": "Italy",
+          "wrong_answer3": "Turkey"
+        },
+        {
+          "question": "Which country is known for its tulips, windmills, and wooden shoes?",
+          "right_answer": "Netherlands",
+          "wrong_answer1": "Belgium",
+          "wrong_answer2": "Denmark",
+          "wrong_answer3": "Sweden"
+        },
+        {
+          "question": "Which country is famous for its ancient ruins of Machu Picchu?",
+          "right_answer": "Peru",
+          "wrong_answer1": "Mexico",
+          "wrong_answer2": "Brazil",
+          "wrong_answer3": "Chile"
+        },
+        {
+          "question": "Which country is home to the Eiffel Tower?",
+          "right_answer": "France",
+          "wrong_answer1": "Italy",
+          "wrong_answer2": "Spain",
+          "wrong_answer3": "Germany"
+        },
+        {
+          "question": "Which country is known for its fjords and Vikings?",
+          "right_answer": "Norway",
+          "wrong_answer1": "Finland",
+          "wrong_answer2": "Iceland",
+          "wrong_answer3": "Sweden"
+        },
+        {
+          "question": "Which country is famous for its maple syrup?",
+          "right_answer": "Canada",
+          "wrong_answer1": "United States",
+          "wrong_answer2": "Sweden",
+          "wrong_answer3": "Switzerland"
+        },
+        {
+          "question": "Which country is home to the Christ the Redeemer statue?",
+          "right_answer": "Brazil",
+          "wrong_answer1": "Argentina",
+          "wrong_answer2": "Chile",
+          "wrong_answer3": "Colombia"
+        },
+        {
+          "question": "Which country is known for its ancient city of Petra?",
+          "right_answer": "Jordan",
+          "wrong_answer1": "Iraq",
+          "wrong_answer2": "Syria",
+          "wrong_answer3": "Lebanon"
+        },
+        {
+          "question": "Which country is famous for its Bollywood film industry?",
+          "right_answer": "India",
+          "wrong_answer1": "Pakistan",
+          "wrong_answer2": "Bangladesh",
+          "wrong_answer3": "Nepal"
+        },
+        {
+          "question": "Which country is home to the Amazon Rainforest?",
+          "right_answer": "Brazil",
+          "wrong_answer1": "Colombia",
+          "wrong_answer2": "Peru",
+          "wrong_answer3": "Venezuela"
+        },
+        {
+          "question": "Which country is known for its ancient city of Angkor Wat?",
+          "right_answer": "Cambodia",
+          "wrong_answer1": "Vietnam",
+          "wrong_answer2": "Thailand",
+          "wrong_answer3": "Laos"
+        },
+        {
+          "question": "Which country is famous for its ancient city of Rome?",
+          "right_answer": "Italy",
+          "wrong_answer1": "Greece",
+          "wrong_answer2": "Spain",
+          "wrong_answer3": "France"
+        },
+        {
+          "question": "Which country is home to the famous Neuschwanstein Castle?",
+          "right_answer": "Germany",
+          "wrong_answer1": "Austria",
+          "wrong_answer2": "Switzerland",
+          "wrong_answer3": "Denmark"
+        },
+        {
+          "question": "Which country is known for its ancient city of Istanbul?",
+          "right_answer": "Turkey",
+          "wrong_answer1": "Greece",
+          "wrong_answer2": "Italy",
+          "wrong_answer3": "Egypt"
+        },
+        {
+          "question": "Which country is famous for its colorful Diwali festival?",
+          "right_answer": "India",
+          "wrong_answer1": "Sri Lanka",
+          "wrong_answer2": "Pakistan",
+          "wrong_answer3": "Bangladesh"
+        },
+        {
+          "question": "Which country is home to the famous Moai statues?",
+          "right_answer": "Chile",
+          "wrong_answer1": "Peru",
+          "wrong_answer2": "Argentina",
+          "wrong_answer3": "Bolivia"
+        },
+        {
+          "question": "Which country is known for its ancient city of Athens?",
+          "right_answer": "Greece",
+          "wrong_answer1": "Italy",
+          "wrong_answer2": "Turkey",
+          "wrong_answer3": "Egypt"
+        },
+        {
+          "question": "Which country is famous for its ancient city of Kyoto?",
+          "right_answer": "Japan",
+          "wrong_answer1": "China",
+          "wrong_answer2": "South Korea",
+          "wrong_answer3": "Thailand"
+        },
+        {
+          "question": "Which country is home to the famous Sistine Chapel?",
+          "right_answer": "Italy",
+          "wrong_answer1": "France",
+          "wrong_answer2": "Spain",
+          "wrong_answer3": "Greece"
+        },
+        {
+          "question": "Which country is known for its ancient city of Cairo?",
+          "right_answer": "Egypt",
+          "wrong_answer1": "Greece",
+          "wrong_answer2": "Turkey",
+          "wrong_answer3": "Italy"
+        },
+        {
+          "question": "Which country is famous for its ancient city of Cusco?",
+          "right_answer": "Peru",
+          "wrong_answer1": "Mexico",
+          "wrong_answer2": "Colombia",
+          "wrong_answer3": "Brazil"
+        },
+        {
+          "question": "Which country is home to the famous Blue Mosque?",
+          "right_answer": "Turkey",
+          "wrong_answer1": "Egypt",
+          "wrong_answer2": "Greece",
+          "wrong_answer3": "Italy"
+        },
+        {
+          "question": "Which country is known for its ancient city of Ephesus?",
+          "right_answer": "Turkey",
+          "wrong_answer1": "Greece",
+          "wrong_answer2": "Italy",
+          "wrong_answer3": "Egypt"
+        },
+        {
+          "question": "Which country is famous for its ancient city of Tikal?",
+          "right_answer": "Guatemala",
+          "wrong_answer1": "Mexico",
+          "wrong_answer2": "Peru",
+          "wrong_answer3": "Honduras"
+        }
+    ],
+    "FootBall_Quetions": [
+        {
+          "question": "Which country won the FIFA World Cup in 2018?",
+          "right_answer": "France",
+          "wrong_answer1": "Germany",
+          "wrong_answer2": "Brazil",
+          "wrong_answer3": "Argentina"
+        },
+        {
+          "question": "Who is the all-time leading goal scorer in the English Premier League?",
+          "right_answer": "Alan Shearer",
+          "wrong_answer1": "Thierry Henry",
+          "wrong_answer2": "Wayne Rooney",
+          "wrong_answer3": "Sergio Agüero"
+        },
+        {
+          "question": "Which team has won the UEFA Champions League the most times?",
+          "right_answer": "Real Madrid",
+          "wrong_answer1": "Barcelona",
+          "wrong_answer2": "Bayern Munich",
+          "wrong_answer3": "Liverpool"
+        },
+        {
+          "question": "Who is known as the 'King of Football'?",
+          "right_answer": "Pelé",
+          "wrong_answer1": "Diego Maradona",
+          "wrong_answer2": "Lionel Messi",
+          "wrong_answer3": "Cristiano Ronaldo"
+        },
+        {
+          "question": "Which player has won the most Ballon d'Or awards?",
+          "right_answer": "Lionel Messi",
+          "wrong_answer1": "Cristiano Ronaldo",
+          "wrong_answer2": "Pelé",
+          "wrong_answer3": "Diego Maradona"
+        },
+        {
+          "question": "Which team has won the most FIFA World Cup titles?",
+          "right_answer": "Brazil",
+          "wrong_answer1": "Germany",
+          "wrong_answer2": "Italy",
+          "wrong_answer3": "Argentina"
+        },
+        {
+          "question": "Who is the current manager of Liverpool FC?",
+          "right_answer": "Jürgen Klopp",
+          "wrong_answer1": "Pep Guardiola",
+          "wrong_answer2": "José Mourinho",
+          "wrong_answer3": "Carlo Ancelotti"
+        },
+        {
+          "question": "Which player has won the most UEFA Champions League titles?",
+          "right_answer": "Cristiano Ronaldo",
+          "wrong_answer1": "Lionel Messi",
+          "wrong_answer2": "Andrés Iniesta",
+          "wrong_answer3": "Xavi Hernández"
+        },
+        {
+          "question": "Who won the FIFA Women's World Cup in 2019?",
+          "right_answer": "United States",
+          "wrong_answer1": "Germany",
+          "wrong_answer2": "France",
+          "wrong_answer3": "Sweden"
+        },
+        {
+          "question": "Which team has won the most Copa Libertadores titles?",
+          "right_answer": "Club Atlético Independiente",
+          "wrong_answer1": "Boca Juniors",
+          "wrong_answer2": "River Plate",
+          "wrong_answer3": "Santos FC"
+        },
+        {
+          "question": "Who is the all-time leading goal scorer for the Spanish national team?",
+          "right_answer": "David Villa",
+          "wrong_answer1": "Raúl",
+          "wrong_answer2": "Fernando Torres",
+          "wrong_answer3": "David Silva"
+        },
+        {
+          "question": "Which player has won the most FIFA World Cup Golden Boots?",
+          "right_answer": "Just Fontaine",
+          "wrong_answer1": "Pelé",
+          "wrong_answer2": "Diego Maradona",
+          "wrong_answer3": "Gerd Müller"
+        },
+        {
+          "question": "Which club has won the most English FA Cup titles?",
+          "right_answer": "Arsenal",
+          "wrong_answer1": "Manchester United",
+          "wrong_answer2": "Chelsea",
+          "wrong_answer3": "Liverpool"
+        },
+        {
+          "question": "Who is the youngest player to score a goal in a FIFA World Cup?",
+          "right_answer": "Pelé",
+          "wrong_answer1": "Michael Owen",
+          "wrong_answer2": "Kylian Mbappé",
+          "wrong_answer3": "Diego Maradona"
+        },
+        {
+          "question": "Which country hosted the first ever FIFA World Cup?",
+          "right_answer": "Uruguay",
+          "wrong_answer1": "Brazil",
+          "wrong_answer2": "Italy",
+          "wrong_answer3": "Argentina"
+        },
+        {
+          "question": "Who is the all-time leading goal scorer for the Brazilian national team?",
+          "right_answer": "Pelé",
+          "wrong_answer1": "Ronaldo",
+          "wrong_answer2": "Romário",
+          "wrong_answer3": "Zico"
+        },
+        {
+          "question": "Which player has won the most UEFA European Championship titles?",
+          "right_answer": "Cristiano Ronaldo",
+          "wrong_answer1": "Michel Platini",
+          "wrong_answer2": "Andrés Iniesta",
+          "wrong_answer3": "Xavi Hernández"
+        },
+        {
+          "question": "Who is the current manager of Manchester City FC?",
+          "right_answer": "Pep Guardiola",
+          "wrong_answer1": "Jürgen Klopp",
+          "wrong_answer2": "José Mourinho",
+          "wrong_answer3": "Carlo Ancelotti"
+        },
+        {
+          "question": "Which player has won the most FIFA World Cup titles?",
+          "right_answer": "Pelé",
+          "wrong_answer1": "Diego Maradona",
+          "wrong_answer2": "Lionel Messi",
+          "wrong_answer3": "Cristiano Ronaldo"
+        },
+        {
+          "question": "Who is the current captain of the Spanish national team?",
+          "right_answer": "Sergio Ramos",
+          "wrong_answer1": "Iker Casillas",
+          "wrong_answer2": "Xavi Hernández",
+          "wrong_answer3": "Andrés Iniesta"
+        }
+      ],
+     "Programming_Quetions": [
+        {
+          "question": "What does HTML stand for?",
+          "right_answer": "Hypertext Markup Language",
+          "wrong_answer1": "Hyperlink and Text Markup Language",
+          "wrong_answer2": "High Tech Markup Language",
+          "wrong_answer3": "Home Tool Markup Language"
+        },
+        {
+          "question": "Which programming language is commonly used for building Android apps?",
+          "right_answer": "Java",
+          "wrong_answer1": "Python",
+          "wrong_answer2": "C++",
+          "wrong_answer3": "JavaScript"
+        },
+        {
+          "question": "What does CSS stand for?",
+          "right_answer": "Cascading Style Sheets",
+          "wrong_answer1": "Creative Style Sheets",
+          "wrong_answer2": "Computer Style Sheets",
+          "wrong_answer3": "Cascading Style Syntax"
+        },
+        {
+          "question": "Which data structure operates on a Last In, First Out (LIFO) basis?",
+          "right_answer": "Stack",
+          "wrong_answer1": "Queue",
+          "wrong_answer2": "Array",
+          "wrong_answer3": "Linked List"
+        },
+        {
+          "question": "In Python, what is used to represent a block of code?",
+          "right_answer": "Indentation",
+          "wrong_answer1": "Brackets",
+          "wrong_answer2": "Parentheses",
+          "wrong_answer3": "Semicolons"
+        },
+        {
+          "question": "Which programming language is often used for web development alongside HTML and CSS?",
+          "right_answer": "JavaScript",
+          "wrong_answer1": "Java",
+          "wrong_answer2": "C#",
+          "wrong_answer3": "Ruby"
+        },
+        {
+          "question": "What does SQL stand for?",
+          "right_answer": "Structured Query Language",
+          "wrong_answer1": "Sequential Query Language",
+          "wrong_answer2": "Simple Query Language",
+          "wrong_answer3": "Structured Question Language"
+        },
+        {
+          "question": "Which programming language is known for its use in statistical computing and graphics?",
+          "right_answer": "R",
+          "wrong_answer1": "Python",
+          "wrong_answer2": "Java",
+          "wrong_answer3": "C++"
+        },
+        {
+          "question": "What is the output of the following code snippet in Python? print(2 + 2 * 3)",
+          "right_answer": "8",
+          "wrong_answer1": "10",
+          "wrong_answer2": "12",
+          "wrong_answer3": "14"
+        },
+        {
+          "question": "Which symbol is used to comment a single line in most programming languages?",
+          "right_answer": "//",
+          "wrong_answer1": "#",
+          "wrong_answer2": "--",
+          "wrong_answer3": "/* */"
+        },
+        {
+          "question": "What is the term for a function that calls itself within its definition?",
+          "right_answer": "Recursive function",
+          "wrong_answer1": "Iterative function",
+          "wrong_answer2": "Nested function",
+          "wrong_answer3": "Lambda function"
+        },
+        {
+          "question": "Which of the following is NOT a version control system?",
+          "right_answer": "PHP",
+          "wrong_answer1": "Git",
+          "wrong_answer2": "SVN",
+          "wrong_answer3": "Mercurial"
+        },
+        {
+          "question": "What does API stand for?",
+          "right_answer": "Application Programming Interface",
+          "wrong_answer1": "Automated Programming Interface",
+          "wrong_answer2": "Application Protocol Integration",
+          "wrong_answer3": "Automated Protocol Interface"
+        },
+        {
+          "question": "Which symbol is used to access properties or methods of an object in JavaScript?",
+          "right_answer": ".",
+          "wrong_answer1": "->",
+          "wrong_answer2": "::",
+          "wrong_answer3": "=>"
+        },
+        {
+          "question": "What is the primary purpose of a constructor in object-oriented programming?",
+          "right_answer": "To initialize objects",
+          "wrong_answer1": "To destroy objects",
+          "wrong_answer2": "To inherit objects",
+          "wrong_answer3": "To compare objects"
+        },
+        {
+          "question": "Which of the following is NOT a valid data type in JavaScript?",
+          "right_answer": "Integer",
+          "wrong_answer1": "String",
+          "wrong_answer2": "Boolean",
+          "wrong_answer3": "Array"
+        },
+        {
+          "question": "What is the output of the following code snippet in Python? print('Hello' * 3)",
+          "right_answer": "HelloHelloHello",
+          "wrong_answer1": "Hello 3 times",
+          "wrong_answer2": "HelloHello",
+          "wrong_answer3": "3"
+        },
+        {
+          "question": "What does HTTP stand for?",
+          "right_answer": "Hypertext Transfer Protocol",
+          "wrong_answer1": "Hyperlink Transfer Protocol",
+          "wrong_answer2": "Hypertext Translation Protocol",
+          "wrong_answer3": "Highway Transfer Protocol"
+        },
+        {
+          "question": "Which of the following is a relational database management system?",
+          "right_answer": "MySQL",
+          "wrong_answer1": "MongoDB",
+          "wrong_answer2": "Redis",
+          "wrong_answer3": "Elasticsearch"
+        },
+        {
+          "question": "What is the term for a unique identifier for elements in an HTML document?",
+          "right_answer": "ID",
+          "wrong_answer1": "Class",
+          "wrong_answer2": "Tag",
+          "wrong_answer3": "Attribute"
+        },
+        {
+          "question": "In Python, what is the keyword used to define a function?",
+          "right_answer": "def",
+          "wrong_answer1": "function",
+          "wrong_answer2": "define",
+          "wrong_answer3": "fun"
+        }
+      ],
+    "Math_Quetions": [
+        {
+          "question": "What is the value of π (pi) to two decimal places?",
+          "right_answer": "3.14",
+          "wrong_answer1": "3.16",
+          "wrong_answer2": "3.12",
+          "wrong_answer3": "3.18"
+        },
+        {
+          "question": "What is the square root of 144?",
+          "right_answer": "12",
+          "wrong_answer1": "10",
+          "wrong_answer2": "14",
+          "wrong_answer3": "16"
+        },
+        {
+          "question": "What is the value of 5 factorial (5!)?",
+          "right_answer": "120",
+          "wrong_answer1": "25",
+          "wrong_answer2": "60",
+          "wrong_answer3": "720"
+        },
+        {
+          "question": "What is the result of 7 squared (7^2)?",
+          "right_answer": "49",
+          "wrong_answer1": "14",
+          "wrong_answer2": "56",
+          "wrong_answer3": "21"
+        },
+        {
+          "question": "What is the sum of the first 10 natural numbers?",
+          "right_answer": "55",
+          "wrong_answer1": "45",
+          "wrong_answer2": "65",
+          "wrong_answer3": "50"
+        },
+        {
+          "question": "What is the value of 2 to the power of 5 (2^5)?",
+          "right_answer": "32",
+          "wrong_answer1": "25",
+          "wrong_answer2": "64",
+          "wrong_answer3": "16"
+        },
+        {
+          "question": "What is the next prime number after 7?",
+          "right_answer": "11",
+          "wrong_answer1": "9",
+          "wrong_answer2": "10",
+          "wrong_answer3": "12"
+        },
+        {
+          "question": "What is the value of 3 squared plus 4 squared?",
+          "right_answer": "25",
+          "wrong_answer1": "16",
+          "wrong_answer2": "9",
+          "wrong_answer3": "12"
+        },
+        {
+          "question": "What is the result of 15 divided by 3?",
+          "right_answer": "5",
+          "wrong_answer1": "4",
+          "wrong_answer2": "6",
+          "wrong_answer3": "3"
+        },
+        {
+          "question": "What is the value of the square root of 100?",
+          "right_answer": "10",
+          "wrong_answer1": "8",
+          "wrong_answer2": "12",
+          "wrong_answer3": "15"
+        },
+        {
+          "question": "What is the product of 7 and 9?",
+          "right_answer": "63",
+          "wrong_answer1": "56",
+          "wrong_answer2": "72",
+          "wrong_answer3": "49"
+        },
+        {
+          "question": "What is the result of 20 minus 8?",
+          "right_answer": "12",
+          "wrong_answer1": "10",
+          "wrong_answer2": "14",
+          "wrong_answer3": "16"
+        },
+        {
+          "question": "What is the value of 8 factorial (8!)?",
+          "right_answer": "40320",
+          "wrong_answer1": "3240",
+          "wrong_answer2": "4480",
+          "wrong_answer3": "5040"
+        },
+        {
+          "question": "What is the result of 9 times 7?",
+          "right_answer": "63",
+          "wrong_answer1": "54",
+          "wrong_answer2": "72",
+          "wrong_answer3": "81"
+        },
+        {
+          "question": "What is the sum of the angles in a triangle?",
+          "right_answer": "180 degrees",
+          "wrong_answer1": "90 degrees",
+          "wrong_answer2": "270 degrees",
+          "wrong_answer3": "360 degrees"
+        },
+        {
+          "question": "What is the value of 4 to the power of 3 (4^3)?",
+          "right_answer": "64",
+          "wrong_answer1": "32",
+          "wrong_answer2": "16",
+          "wrong_answer3": "128"
+        },
+        {
+          "question": "What is the next number in the Fibonacci sequence after 5?",
+          "right_answer": "8",
+          "wrong_answer1": "6",
+          "wrong_answer2": "7",
+          "wrong_answer3": "9"
+        },
+        {
+          "question": "What is the value of 10 squared (10^2)?",
+          "right_answer": "100",
+          "wrong_answer1": "200",
+          "wrong_answer2": "50",
+          "wrong_answer3": "150"
+        },
+        {
+          "question": "What is the result of 30 divided by 5?",
+          "right_answer": "6",
+          "wrong_answer1": "5",
+          "wrong_answer2": "7",
+          "wrong_answer3": "8"
+        },
+        {
+          "question": "What is the value of 3 to the power of 4 (3^4)?",
+          "right_answer": "81",
+          "wrong_answer1": "64",
+          "wrong_answer2": "27",
+          "wrong_answer3": "36"
+        },
+        {
+          "question": "What is the value of 6 factorial (6!)?",
+          "right_answer": "720",
+          "wrong_answer1": "120",
+          "wrong_answer2": "360",
+          "wrong_answer3": "504"
+        }
+      ],
+    "English_Quetions": [
+        {
+          "question": "What is the plural form of 'child'?",
+          "right_answer": "Children",
+          "wrong_answer1": "Childs",
+          "wrong_answer2": "Childes",
+          "wrong_answer3": "Childers"
+        },
+        {
+          "question": "Which word is a synonym for 'happy'?",
+          "right_answer": "Joyful",
+          "wrong_answer1": "Sad",
+          "wrong_answer2": "Angry",
+          "wrong_answer3": "Miserable"
+        },
+        {
+          "question": "What is the past tense of 'go'?",
+          "right_answer": "Went",
+          "wrong_answer1": "Goed",
+          "wrong_answer2": "Gone",
+          "wrong_answer3": "Going"
+        },
+        {
+          "question": "What is the opposite of 'old'?",
+          "right_answer": "Young",
+          "wrong_answer1": "Ancient",
+          "wrong_answer2": "Elderly",
+          "wrong_answer3": "Aged"
+        },
+        {
+          "question": "Which word is a synonym for 'big'?",
+          "right_answer": "Large",
+          "wrong_answer1": "Small",
+          "wrong_answer2": "Tiny",
+          "wrong_answer3": "Minute"
+        },
+        {
+          "question": "What is the plural form of 'mouse'?",
+          "right_answer": "Mice",
+          "wrong_answer1": "Mouses",
+          "wrong_answer2": "Mices",
+          "wrong_answer3": "Moose"
+        },
+        {
+          "question": "Which word is a synonym for 'beautiful'?",
+          "right_answer": "Gorgeous",
+          "wrong_answer1": "Ugly",
+          "wrong_answer2": "Plain",
+          "wrong_answer3": "Attractive"
+        },
+        {
+          "question": "What is the past tense of 'eat'?",
+          "right_answer": "Ate",
+          "wrong_answer1": "Eaten",
+          "wrong_answer2": "Eated",
+          "wrong_answer3": "Eating"
+        },
+        {
+          "question": "What is the opposite of 'hot'?",
+          "right_answer": "Cold",
+          "wrong_answer1": "Warm",
+          "wrong_answer2": "Freezing",
+          "wrong_answer3": "Cool"
+        },
+        {
+          "question": "Which word is a synonym for 'fast'?",
+          "right_answer": "Quick",
+          "wrong_answer1": "Slow",
+          "wrong_answer2": "Speedy",
+          "wrong_answer3": "Rapid"
+        },
+        {
+          "question": "What is the plural form of 'cactus'?",
+          "right_answer": "Cacti",
+          "wrong_answer1": "Cactuses",
+          "wrong_answer2": "Cactuses",
+          "wrong_answer3": "Cactus"
+        },
+        {
+          "question": "Which word is a synonym for 'angry'?",
+          "right_answer": "Furious",
+          "wrong_answer1": "Happy",
+          "wrong_answer2": "Calm",
+          "wrong_answer3": "Content"
+        },
+        {
+          "question": "What is the past tense of 'run'?",
+          "right_answer": "Ran",
+          "wrong_answer1": "Run",
+          "wrong_answer2": "Rinned",
+          "wrong_answer3": "Running"
+        },
+        {
+          "question": "What is the opposite of 'good'?",
+          "right_answer": "Bad",
+          "wrong_answer1": "Great",
+          "wrong_answer2": "Excellent",
+          "wrong_answer3": "Wonderful"
+        },
+        {
+          "question": "Which word is a synonym for 'tired'?",
+          "right_answer": "Exhausted",
+          "wrong_answer1": "Awake",
+          "wrong_answer2": "Energetic",
+          "wrong_answer3": "Rested"
+        },
+        {
+          "question": "What is the plural form of 'man'?",
+          "right_answer": "Men",
+          "wrong_answer1": "Mans",
+          "wrong_answer2": "Mens",
+          "wrong_answer3": "Menes"
+        },
+        {
+          "question": "Which word is a synonym for 'sad'?",
+          "right_answer": "Melancholy",
+          "wrong_answer1": "Happy",
+          "wrong_answer2": "Joyful",
+          "wrong_answer3": "Cheerful"
+        },
+        {
+          "question": "What is the past tense of 'drink'?",
+          "right_answer": "Drank",
+          "wrong_answer1": "Drinked",
+          "wrong_answer2": "Drunk",
+          "wrong_answer3": "Drinking"
+        },
+        {
+          "question": "What is the opposite of 'high'?",
+          "right_answer": "Low",
+          "wrong_answer1": "Tall",
+          "wrong_answer2": "Elevated",
+          "wrong_answer3": "Above"
+        },
+        {
+          "question": "Which word is a synonym for 'smart'?",
+          "right_answer": "Intelligent",
+          "wrong_answer1": "Stupid",
+          "wrong_answer2": "Dull",
+          "wrong_answer3": "Clever"
+        },
+        {
+          "question": "What is the plural form of 'tooth'?",
+          "right_answer": "Teeth",
+          "wrong_answer1": "Tooths",
+          "wrong_answer2": "Toothes",
+          "wrong_answer3": "Teech"
+        }
+      ]
+      
+}
