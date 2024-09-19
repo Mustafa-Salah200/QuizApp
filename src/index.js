@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import "./poppins.css";
 import { ProtectApp } from "./App";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import { Provider } from "react-redux";
 import { store } from "./rtk/store";
 import Signin from "./component/Signin";
@@ -14,7 +14,7 @@ FirebasrApp.init();
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Provider store={store}>
         <Routes>
           <Route path="/signin" element={<Signin />} />
@@ -22,6 +22,6 @@ root.render(
           <Route path="*" element={<ProtectApp />} />
         </Routes>
       </Provider>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
